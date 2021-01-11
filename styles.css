@@ -1,0 +1,86 @@
+.red{  
+    background-color:red;
+}
+
+.orange{
+    background-color:orange;
+}
+
+.yellow{
+    background-color:yellow;
+}
+
+.green{
+    background-color:green;
+}
+
+.blue{
+    background-color:blue;
+}
+
+.a{
+    background-color:#ff86f4;
+}
+
+.b{
+    background-color:#99ff66;
+}
+
+.c{
+    background-color:#33ccff;
+}
+
+#grad{
+    background-image:Linear-gradient(blue,white);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div {
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
